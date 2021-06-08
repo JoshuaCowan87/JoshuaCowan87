@@ -12,7 +12,7 @@ ________________________________________________________________________________
 Connect: 
 
 You can also connect with me via
-[Email](JoshuaCowan87@gmail.com)
-[linkedIn](https://www.linkedin.com/in/joshua-cowan-abc/)
-Website coming soon!
-Twitter coming soon!
+-[Email](JoshuaCowan87@gmail.com)
+-[linkedIn](https://www.linkedin.com/in/joshua-cowan-abc/)
+-Website coming soon!
+-Twitter coming soon!
