@@ -15,7 +15,7 @@ I am a software engineer in training, expected to complete Thinkful's software e
 - ✉️ [JoshuaCowan87@gmail.com](JoshuaCowan87@gmail.com) ✉️
 - [LinkedIn](https://www.linkedin.com/in/joshua-cowan-abc/)
 - Website coming soon!
-- Twitter coming soon!
+- [Twitter](https://twitter.com/CodingCowan)
 
 
 [![Github States](https://github-readme-stats.vercel.app/api?username=JoshuaCowan87&theme=tokyonight&?count_private=true&hide=stars)](https://github.com/JoshuaCowan87/github-readme-stats)
