@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## ✋ Thanks for checking out my github ✋
-I am a software engineer in training, expected to complete Thinkful's software engrineering bootcamp in July 2021. I am currently looking for full time employment  working remotely, in the greater Sacramento area or Bay Area.
+I am currently looking for full time employment  working remotely, in the greater Sacramento area or Bay Area. I recently completed Thinkful's software engineering bootcamp.
 
 
 ## 💻  Tech 💻
