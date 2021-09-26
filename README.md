@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## ✋ Thanks for checking out my github ✋
-I am currently looking for full time employment as a web developer either working remotely, in the greater Sacramento area or Bay Area. 
+I am currently looking for full time employment as a full stack developer either working remotely, in the greater Sacramento area or Bay Area. 
 
 ## 💻  Tech 💻
 - JavsScript ES6 | React | Express | Node.js | HTML5 | CSS3 | PostreSQL | Testing with Mocha/Chai | Git
